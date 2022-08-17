@@ -1,0 +1,17 @@
+
+@
+java:S1481%"+Remove this unused "usua_t" local variable.(šù×p
+D
+java:S1481&".Remove this unused "usuario_t" local variable.(â»òº
+?
+java:S1481'")Remove this unused "pass" local variable.(²‘Âä
+1
+java:S36264"Remove this redundant jump.(ûÁİ…
+1
+java:S3626E"Remove this redundant jump.(ûÁİ…
+e	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šù×p
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â»òº
+C
+java:S1604*"(Make this anonymous inner class a lambda(¹ëÁÉùÿÿÿÿ
+>
+java:S1604O"(Make this anonymous inner class a lambda(“íÍÛ

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistroPersonActivity">
+
+
+    <EditText
+        android:id="@+id/txtEmail"
+        android:layout_width="285dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:hint="Registrarusuario@email.com"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="284dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Apellido"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="108dp" />
+
+    <EditText
+        android:id="@+id/txtPass"
+        android:layout_width="278dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:hint="*******"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="371dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="346dp" />
+
+    <RadioButton
+        android:id="@+id/btnAdministrador"
+        android:layout_width="132dp"
+        android:layout_height="45dp"
+        android:text="Administrador"
+        tools:layout_editor_absoluteX="195dp"
+        tools:layout_editor_absoluteY="423dp" />
+
+    <RadioButton
+        android:id="@+id/btnCliente"
+        android:layout_width="89dp"
+        android:layout_height="45dp"
+        android:text="Cliente"
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="423dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="262dp" />
+
+    <EditText
+        android:id="@+id/txtNombre"
+        android:layout_width="280dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:hint="IngresarNombre"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="58dp" />
+
+    <EditText
+        android:id="@+id/txtApellido"
+        android:layout_width="280dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:hint="IngresarApellido"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="164dp" />
+
+    <Button
+        android:id="@+id/btnReusuario"
+        android:layout_width="204dp"
+        android:layout_height="45dp"
+        android:text="Registrar Usuario"
+        tools:layout_editor_absoluteX="103dp"
+        tools:layout_editor_absoluteY="542dp" />
+
+    <Button
+        android:id="@+id/btnCancelar"
+        android:layout_width="204dp"
+        android:layout_height="45dp"
+        android:text="Cancelar Registro"
+        tools:layout_editor_absoluteX="103dp"
+        tools:layout_editor_absoluteY="486dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="39dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

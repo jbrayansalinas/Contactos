@@ -1,0 +1,9 @@
+
+n	java:S116"YRename this field "ListaContactos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïËõ°
+_
+java:S1659."IDeclare "viewTelefono" and all following declarations on a separate line.(ÇÓÚ
+„
+java:S1319"nThe type of "ListaContactos" should be an interface such as "List" rather than the implementation "ArrayList".(‡Êº—
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Êº—
+>
+java:S16046"(Make this anonymous inner class a lambda(ú“Úå

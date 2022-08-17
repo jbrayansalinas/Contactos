@@ -1,0 +1,27 @@
+
+l
+<app/src/main/java/red/lisgar/contactos/SharedPreference.java,6\5\65bc1dde748dbf89ae67392c598ed5d8a5dda544
+}
+Mapp/src/main/java/red/lisgar/contactos/adaptadores/ListaContactosAdapter.java,1\2\1279f4486d2ed8f1bcfed698b518ad3bc2d8cd15
+h
+8app/src/main/java/red/lisgar/contactos/MainActivity.java,d\8\d8bcefe4d220c5480566da6807a6fe2292504991
+k
+;app/src/main/java/red/lisgar/contactos/modelo/Contacto.java,b\2\b2cb79fefe5f8d3c31b04851cf237a84473c0e19
+u
+Eapp/src/main/java/red/lisgar/contactos/RegistrarContactoActivity.java,b\5\b5a752b3086df65c4c04c5317403b3823f70bdab
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+p
+@app/src/main/java/red/lisgar/contactos/basedatos/Dbcontacto.java,b\6\b69ae87bb01864480baa10c17ae85637eabdbfd0
+n
+>app/src/main/java/red/lisgar/contactos/basedatos/DbHelper.java,a\4\a415fa870b91f35fcbb76a2011620c704254a4ba
+i
+9app/src/main/java/red/lisgar/contactos/NuevoContacto.java,2\4\241a9d19ac7d7740837c75668d6791050ee17507
+j
+:app/src/main/java/red/lisgar/contactos/modelo/Usuario.java,a\7\a7730dd660abdcf1b3f230bc94a8dda211c07e65
+r
+Bapp/src/main/java/red/lisgar/contactos/RegistroPersonActivity.java,a\7\a71efbbc6a04f771a6b1594dc7551d451d1bff91
+o
+?app/src/main/java/red/lisgar/contactos/basedatos/DbUsuario.java,7\c\7c14381d51304b16451dfa5f620ba3bf4ff8c2f0
+i
+9app/src/main/java/red/lisgar/contactos/LoginActivity.java,b\3\b3d619185e117e9e86df94c7903be746695a18fc

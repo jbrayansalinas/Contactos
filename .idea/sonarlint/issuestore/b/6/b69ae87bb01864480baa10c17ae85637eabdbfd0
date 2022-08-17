@@ -1,0 +1,28 @@
+
+M
+java:S1135;"2Complete the task associated to this TODO comment.(çü•ñûÿÿÿÿ
+j
+java:S1192<"ODefine a constant instead of duplicating this literal "SELECT * FROM " 3 times.(êõ»¥ÿÿÿÿÿ
+‹
+java:S13192"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÁôˆÌûÿÿÿÿ
+†
+java:S1319T"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¬ÆÅ
+s	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í™Å“úÿÿÿÿ8ÑÔÆô/
+c
+java:S2259g"MA "NullPointerException" could be thrown; "cursorContactos" is nullable here.(²á¡
+a
+java:S2095"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(Š¨Û°ûÿÿÿÿ
+a
+java:S2095t"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(Š¨Û°ûÿÿÿÿ
+h
+java:S20953"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(Š¨Û°ûÿÿÿÿ8Ä£îô/
+b
+java:S2095£"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(Š¨Û°ûÿÿÿÿ
+a
+java:S2095V"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(Š¨Û°ûÿÿÿÿ
+i
+java:S2095Ž"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(Š¨Û°ûÿÿÿÿ8ìÔÆô/
+‰
+java:S4165¬"fRemove this useless assignment; "correcto" already holds the assigned value along all execution paths.(†Ü­Ãýÿÿÿÿ8ìÔÆô/
+‰
+java:S4165—"fRemove this useless assignment; "correcto" already holds the assigned value along all execution paths.(†Ü­Ãýÿÿÿÿ8Ä£îô/

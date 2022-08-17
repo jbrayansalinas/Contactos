@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Wposs/AndroidStudioProjects/Contactos/app/src/main/res/drawable-anydpi/ic_email.xml" value="0.37916666666666665" />
+        <entry key="..\:/Users/Wposs/AndroidStudioProjects/Contactos/app/src/main/res/drawable/ic_delete.xml" value="0.37916666666666665" />
+        <entry key="..\:/Users/Wposs/AndroidStudioProjects/Contactos/app/src/main/res/drawable/ic_edit_.xml" value="0.37916666666666665" />
+        <entry key="..\:/Users/Wposs/AndroidStudioProjects/Contactos/app/src/main/res/layout/activity_login.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/Wposs/AndroidStudioProjects/Contactos/app/src/main/res/layout/activity_main.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/Wposs/AndroidStudioProjects/Contactos/app/src/main/res/layout/activity_registrar_contacto.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/Wposs/AndroidStudioProjects/Contactos/app/src/main/res/layout/activity_registro_person.xml" value="0.4" />
+        <entry key="..\:/Users/Wposs/AndroidStudioProjects/Contactos/app/src/main/res/layout/activity_ver.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/Wposs/AndroidStudioProjects/Contactos/app/src/main/res/layout/item_listcontacto.xml" value="0.28532608695652173" />
+        <entry key="..\:/Users/Wposs/AndroidStudioProjects/Contactos/app/src/main/res/menu/menu_principal.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+
+W
+java:S11268"AReplace this if-then-else statement by a single return statement.(Äáßâ
+W
+java:S1126J"AReplace this if-then-else statement by a single return statement.(Äáßâ
+d
+java:S1192 "IDefine a constant instead of duplicating this literal "apellido" 3 times.(ı›„Ëúÿÿÿÿ
+a
+java:S1192!"FDefine a constant instead of duplicating this literal "email" 5 times.(³ï¹Õıÿÿÿÿ
+a
+java:S2095"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(Š¨Û°ûÿÿÿÿ
